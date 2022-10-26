@@ -12,7 +12,12 @@
 // Medium = 1 to 50
 // Hard = 1 to 100
 // Extra Credit: Allow user to enter in the number range to guess.
-// Person who Peer Reviewed your assignment: Christian Pineda
+
+
+
+// Person who Peer Reviewed your assignment: Angelica Ayala
+//Date: 10/25/22
+//Game works well. Allows me to select a level and play the game the game again.
 
 
 

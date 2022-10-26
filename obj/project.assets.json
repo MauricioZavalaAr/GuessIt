@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mauricio\\.nuget\\packages\\": {}
+    "/Users/Angelica/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\GuessIt\\GuessIt\\GuessIt.csproj",
+      "projectUniqueName": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/GuessIt.csproj",
       "projectName": "GuessIt",
-      "projectPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\GuessIt\\GuessIt\\GuessIt.csproj",
-      "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\GuessIt\\GuessIt\\obj\\",
+      "projectPath": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/GuessIt.csproj",
+      "packagesPath": "/Users/Angelica/.nuget/packages/",
+      "outputPath": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/Angelica/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

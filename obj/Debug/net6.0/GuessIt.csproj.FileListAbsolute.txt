@@ -1,15 +1,30 @@
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\bin\Debug\net6.0\GuessIt.exe
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\bin\Debug\net6.0\GuessIt.deps.json
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\bin\Debug\net6.0\GuessIt.runtimeconfig.json
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\bin\Debug\net6.0\GuessIt.dll
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\bin\Debug\net6.0\GuessIt.pdb
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\GuessIt.csproj.AssemblyReference.cache
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\GuessIt.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\GuessIt.AssemblyInfoInputs.cache
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\GuessIt.AssemblyInfo.cs
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\GuessIt.csproj.CoreCompileInputs.cache
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\GuessIt.dll
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\refint\GuessIt.dll
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\GuessIt.pdb
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\GuessIt.genruntimeconfig.cache
-C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GuessIt\GuessIt\obj\Debug\net6.0\ref\GuessIt.dll
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/bin/Debug/net6.0/GuessIt.exe
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/bin/Debug/net6.0/GuessIt.deps.json
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/bin/Debug/net6.0/GuessIt.runtimeconfig.json
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/bin/Debug/net6.0/GuessIt.dll
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/bin/Debug/net6.0/GuessIt.pdb
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/GuessIt.csproj.AssemblyReference.cache
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/GuessIt.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/GuessIt.AssemblyInfoInputs.cache
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/GuessIt.AssemblyInfo.cs
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/GuessIt.csproj.CoreCompileInputs.cache
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/GuessIt.dll
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/refint/GuessIt.dll
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/GuessIt.pdb
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/GuessIt.genruntimeconfig.cache
+C:/Users/Mauricio/Desktop/Codestack Academy/Level1/MiniChallengeGitHubUpload/GuessIt/GuessIt/obj/Debug/net6.0/ref/GuessIt.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/bin/Debug/net6.0/GuessIt
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/bin/Debug/net6.0/GuessIt.deps.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/bin/Debug/net6.0/GuessIt.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/bin/Debug/net6.0/GuessIt.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/bin/Debug/net6.0/GuessIt.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/GuessIt.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/GuessIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/GuessIt.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/GuessIt.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/GuessIt.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/GuessIt.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/refint/GuessIt.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/GuessIt.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/GuessIt.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/GuessItMauricio/GuessIt/obj/Debug/net6.0/ref/GuessIt.dll
